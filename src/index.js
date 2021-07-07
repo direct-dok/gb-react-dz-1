@@ -9,6 +9,7 @@ const messages = [
   {name: 'Andrey', message: 'Установи на компьютер Node.js, далее командой "npm create-react-app myApp" создай новое приложение и пользуйся'}, 
   {name: 'Alex', message: 'Вот спасибо, все получилось))'}, 
   {name: 'Maxim', message: 'нет, ну зачем такую ерунду спрашивать???'},
+  {name: 'Andrey', message: 'рад что совет помог))'}, 
 ]
 
 ReactDOM.render(
